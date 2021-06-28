@@ -5,6 +5,8 @@ The purpose of this project is to analyze Amazon reviews written by members of t
 
 In order to conduct this analysis, PySpark was used to perform an ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. PySpark was then used to determine if any bias toward favorable reviews was present among Amazon Vine members. 
 
+Amazon's grocery dataset was chosen for this analysis.  
+
 ## Results
 
 ### Number of Reviews:
