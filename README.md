@@ -7,21 +7,21 @@ In order to conduct this analysis, PySpark was used to perform an ETL process to
 
 ## Results
 
-### Number of Reviews:**
+### Number of Reviews:
 - **Vine:** 61
 - **Non-Vine:** 28,287
 
 ![# of Reviews](https://github.com/tysonseang/Amazon_Vine_Analysis/blob/main/Imagery/Total%20Paid%20%26%20Unpaid%20Votes.png)
 
-**Number of 5-Star Reviews:**
-- Vine: 20
-- Non-Vine: 15,689
+### Number of 5-Star Reviews:
+- **Vine:** 20
+- **Non-Vine:** 15,689
 
 ![# of 5 Star Reviews](https://github.com/tysonseang/Amazon_Vine_Analysis/blob/main/Imagery/Number%20of%205%20star%20votes.png)
 
-**Percentage of Reviews that were 5 Star:**
-- Vine: 33%
-- Non-Vine: 55%
+### Percentage of Reviews that were 5 Star:
+- **Vine:** 33%
+- **Non-Vine:** 55%
 
 ![% That Were 5 Star](https://github.com/tysonseang/Amazon_Vine_Analysis/blob/main/Imagery/%25%20that%20were%205%20star.png)
 
