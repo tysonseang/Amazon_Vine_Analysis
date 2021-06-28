@@ -28,6 +28,4 @@ In order to conduct this analysis, PySpark was used to perform an ETL process to
 
 ## Summary
 
-
-
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+Based on an analysis of paid and unpaid reviews, it does not appear that Amazon Vine reviews are biased toward positive responses. While roughly 1/3 of paid reviews received a 5-star review on the platform, more than 55% of unpaid reviews received a similar rating. In order to further analyze review content, natural language processing analysis can be conducted to gauge the positive, neutral, and negative sentiment of responses and determine if paid reviews are more likely to skew positive in nature. 
