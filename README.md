@@ -7,9 +7,9 @@ In order to conduct this analysis, PySpark was used to perform an ETL process to
 
 ## Results
 
-**Number of Reviews:**
-- Vine: 61
-- Non-Vine: 28,287
+### Number of Reviews:**
+- **Vine:** 61
+- **Non-Vine:** 28,287
 
 ![# of Reviews](https://github.com/tysonseang/Amazon_Vine_Analysis/blob/main/Imagery/Total%20Paid%20%26%20Unpaid%20Votes.png)
 
